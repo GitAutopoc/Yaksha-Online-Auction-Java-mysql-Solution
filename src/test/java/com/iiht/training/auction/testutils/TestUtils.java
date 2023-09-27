@@ -41,7 +41,7 @@ public class TestUtils {
 
 	public static final String GUID = "6ed39465-d6d3-4ec4-b27d-1dcb870b2992";
 	public static String customData;
-	public static final String URL = "https://yaksha-stage-sbfn-new.azurewebsites.net/api/YakshaMFAEnqueue?code=rL3UghShhlyT9EoIb0odHWH8vkkNWVuql4fyuUmE-L4xAzFuAaboEg==";
+	public static final String URL = "https://yaksha-stage-sbfn-s2-vm.azurewebsites.net/api/YakshaMFAEnqueue?code=MLo1s4eRhiP_Z2EJr3Y38EDFPQ5NUfOu4snUcWTC5tU3AzFuQZCG2Q==";
 	static {
 		total = 0;
 		passed = 0;
